@@ -4,7 +4,7 @@
 + Kurs __21 Şubat 2023 Salı__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz KARAN__'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi __180__ saattir. Dersler __Cumartesi - Pazar__ günleri __13:00 - 17:00__ saatleri arasında yapılacaktır.
++ Toplam kurs süresi __180__ saattir. Dersler __Salı ve Perşembe__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
 + Kursun toplam ücreti KDV dahil __9.360__ TL‘dir. Öğrenci olanlara (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __8.400__ TL’dir. Kurs ücreti peşin ya da 2 taksit olarak ödenebilir. 
 + 
 ## Kursla ilgili bağlantılar
