@@ -73,7 +73,7 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 _Java ile Uygulama Geliştirme_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Programın toplam ücreti **KDV DAHİL 5.200 TL**‘dir. Öğrenci olanlara **KDV DAHİL 4.700 TL** (öğrencilik durumunu belgelemeleri kaydıyla)_  Katılımcılar, eğitim programı ücretini dilerlerse __2 taksitte__ ödeyebilirler. 
+Kursumuzun toplam ücreti KDV dahil __8.400__ TL’dir(Peşin ödemede __7.600__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __7.600__ TL’dir (peşin ödemede __6.900__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 ## Eğitim Programına Kayıt
 [Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZwvdu-urTorGdwErlOPUkMIjS1B7tsiQZoE). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
