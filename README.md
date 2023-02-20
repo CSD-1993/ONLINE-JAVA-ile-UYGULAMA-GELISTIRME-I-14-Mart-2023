@@ -1,7 +1,7 @@
-# Online Java ile Uygulama Geliştirme (I) Kursu - 21 Şubat 2023
+# Online Java ile Uygulama Geliştirme (I) Kursu - 14 Mart 2023
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
-+ Kurs __21 Şubat 2023 Salı__ günü başlayacaktır.
++ Kurs __14 Mart 2023 Salı__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz KARAN__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __180__ saattir. Dersler __Salı ve Perşembe__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
